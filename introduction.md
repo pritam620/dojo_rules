@@ -1,2 +1,7 @@
 "This is just a test " 
-Ruby, JavaScript, HTML
+* Ruby
+* JavaScript
+* HTML
+* JAVA
+* GITHUB
+* GIT
